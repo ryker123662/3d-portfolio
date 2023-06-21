@@ -229,9 +229,9 @@ const projects = [
         source_code_link: "https://promtopia-sage.vercel.app/",
     },
     {
-        name: "Trip Guide",
+        name: "Modern Banking",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "A modern representation of a banking site. Created to show off my skills in React and visualize possible design trend in modern payment related websites.",
         tags: [
             {
                 name: "nextjs",
@@ -247,7 +247,7 @@ const projects = [
             },
         ],
         image: tripguide,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://bank-app-vite.netlify.app/",
     },
 ];
 
