@@ -192,7 +192,7 @@ const projects = [
             "Web-based platform that allows users to search, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
         tags: [
             {
-                name: "Next.js",
+                name: "next.js",
                 color: "blue-text-gradient",
             },
             {
@@ -242,7 +242,7 @@ const projects = [
                 color: "green-text-gradient",
             },
             {
-                name: "css",
+                name: "tailwind",
                 color: "pink-text-gradient",
             },
         ],
