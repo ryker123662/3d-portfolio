@@ -11,9 +11,9 @@ const ProjectCard = ({index, name, description, tags, image, source_code_link}) 
         <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
             <Tilt
                 options={{
-                    max: 35,
+                    max: 20,
                     scale: 1,
-                    speed: 250,
+                    speed: 200,
                 }}
                 className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full">
                 <div className="relative w-full h-[230px]">
@@ -68,7 +68,7 @@ const Works = () => {
                     variants={fadeIn("", "", 0.1, 1)}
                     className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]">
                     Following projects showcase my skills and experience through real-world
-                    examples of my work. It showcases my set of skills and adaptation of
+                    examples of my work. It shows my set of skills and adaptation of
                     technologies which i use.
                 </motion.p>
             </div>

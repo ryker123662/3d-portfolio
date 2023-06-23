@@ -189,7 +189,7 @@ const projects = [
     {
         name: "Car Rent Project",
         description:
-            "Web-based platform that allows users to search, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+            "This demo project allows you to search for different makes and models of cars. It also shows you the price of the car and the number of days you want to rent it for.",
         tags: [
             {
                 name: "next.js",
@@ -210,7 +210,7 @@ const projects = [
     {
         name: "Promptopia",
         description:
-            "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+            "Promtopia is a platform for discovering and sharing AI-generated prompts for your next creative project.  ",
         tags: [
             {
                 name: "react",
