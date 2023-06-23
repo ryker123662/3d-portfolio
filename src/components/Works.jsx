@@ -69,7 +69,7 @@ const Works = () => {
                     className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]">
                     Following projects showcase my skills and experience through real-world
                     examples of my work. It shows my set of skills and adaptation of
-                    technologies which i use.
+                    technologies which I use.
                 </motion.p>
             </div>
 
